@@ -59,31 +59,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="170"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-</p>
-
----
-
-## 📚 Currently Learning
-
-- Laravel Advanced Features
-- REST APIs
-- Authentication & Authorization
-- PHP Design Patterns
-- JavaScript ES6+
-- AI Integration in Web Development
-
----
-
+##
 ## 📌 Featured Skills
 
 ✅ PHP

@@ -1,13 +1,7 @@
 <h1 align="center">Hi there, I'm Kunal Singh Negi 👋</h1>
 <h3 align="center">PHP & Laravel Developer | Full Stack Web Developer | Building Modern Web Applications</h3>
 
-<p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-  </a>
-</p>
 
----
 
 ## 🚀 About Me
 

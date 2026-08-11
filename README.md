@@ -98,7 +98,7 @@
 </a>
 
 <a href="mailto:negikunalsingh11@gmail.com">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
 </a>
 </p>
 
